@@ -44,7 +44,6 @@ target_transforms = {
     'val': None, 
     'test': None
     }
-# data_source = 'official'          #'kaggle'     
 
 if __name__=='__main__':
     parser = argparse.ArgumentParser(description='running parameters',
